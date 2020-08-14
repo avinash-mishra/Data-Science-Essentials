@@ -1,7 +1,5 @@
 # Data-Science-Essentials
 
-Alpha version (in-progress)
-
 <img src="./assets/banner.jpg" alt="Data Science Essentials" width="400"/>
 
 
